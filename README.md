@@ -46,8 +46,8 @@ At the end of this course, participants will be able to:
 
 | Course Date | Course Title | Location |Citation DOI |
 |-------------|--------------|----------|-------------|
-| 28 July–4 August 2023 | [Single Cell Genomics - Latin America and the Caribbean](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-and-the-caribbean-20230728/) | INCA, Rio de Janeiro, Brazil |Citation DOI |
-
+| 28 July–4 August 2023 | [Single Cell Genomics - Latin America and the Caribbean](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-and-the-caribbean-20230728/) | INCA, Rio de Janeiro, Brazil | [![DOI](https://zenodo.org/badge/834030327.svg)](https://zenodo.org/doi/10.5281/zenodo.12952708) |
+| 9–15 August 2024 | [Single Cell Genomics - Latin America and the Caribbean](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-genomics-latin-america-the-caribbean-20240809/) | INCA, Rio de Janeiro, Brazil | Citation DOI |
 ******
 
 ## Citing and Re-using Course Material
