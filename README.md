@@ -56,7 +56,7 @@ This hands-on bioinformatics workshop will offer a series of lectures and practi
 - [Benilton Carvalho](https://portal.dados.unicamp.br/perfil?origem=&docente=309039&sigla_unidade=IMECC&nome_unidade=INSTITUTO%20DE%20MATEMATICA,%20ESTATISTICA%20E%20COMPUTACAO%20CIENTIFICA&nome_programa=), UNICAMP, Brazil 
 - [Carla Jones](https://www.sanger.ac.uk/person/jones-bell-carla/), Wellcome Sanger Institute, UK
 - [Danilo Ceschin](https://www.conicet.gov.ar/new_scp/detalle.php?id=42604&datos_academicos=yes&keywords=), CONICET, Argentina 
-- [Diego Ramirez](Add link), UNAM, Mexico
+- [Diego Ramirez](), UNAM, Mexico
 - [Evelia Coss](https://eveliacoss.github.io/), UNAM, Mexico
 - [Felipe Gajardo](https://www.researchgate.net/profile/Felipe-Gajardo-3), PUC, Chile 
 - [Julieth Lopez](https://co.linkedin.com/in/julieth-andrea-lopez), UNAL, Colombia 
